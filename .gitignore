@@ -1,0 +1,11 @@
+# Node modules (in case you use JS tools later)
+node_modules/
+
+# System files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment secrets
+.env
